@@ -1,0 +1,7 @@
+.venv
+.env
+Pipfile.lock
+__pycache__
+*.pyc
+prompt_toolkit
+vector_db
